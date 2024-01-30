@@ -1,2 +1,2 @@
-table.json filter=lfs diff=lfs merge=lfs -text
 table_fail.json filter=lfs diff=lfs merge=lfs -text
+table.json filter=lfs diff=lfs merge=lfs -text
