@@ -1,0 +1,7 @@
+name: cs249i_project1
+channels:
+  - defaults
+dependencies:
+  - python>=3.8
+  - networkx
+  - tqdm

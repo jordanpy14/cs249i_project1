@@ -1,0 +1,60 @@
+ASN: 64770, Name: -Private Use AS-
+ASN: 64899, Name: -Private Use AS-
+ASN: 64772, Name: -Private Use AS-
+ASN: 64771, Name: -Private Use AS-
+ASN: 54531, Name: LPCH-PA
+ASN: 65288, Name: -Private Use AS-
+ASN: 64776, Name: -Private Use AS-
+ASN: 64655, Name: -Private Use AS-
+ASN: 64656, Name: -Private Use AS-
+ASN: 64658, Name: -Private Use AS-
+ASN: 64659, Name: -Private Use AS-
+ASN: 65300, Name: -Private Use AS-
+ASN: 64664, Name: -Private Use AS-
+ASN: 65432, Name: -Private Use AS-
+ASN: 64666, Name: -Private Use AS-
+ASN: 6939, Name: HURRICANE
+ASN: 64667, Name: -Private Use AS-
+ASN: 64669, Name: -Private Use AS-
+ASN: 64670, Name: -Private Use AS-
+ASN: 64672, Name: -Private Use AS-
+ASN: 64674, Name: -Private Use AS-
+ASN: 64671, Name: -Private Use AS-
+ASN: 64675, Name: -Private Use AS-
+ASN: 64676, Name: -Private Use AS-
+ASN: 64678, Name: -Private Use AS-
+ASN: 64679, Name: -Private Use AS-
+ASN: 64681, Name: -Private Use AS-
+ASN: 65450, Name: -Private Use AS-
+ASN: 65452, Name: -Private Use AS-
+ASN: 65454, Name: -Private Use AS-
+ASN: 64948, Name: -Private Use AS-
+ASN: 64949, Name: -Private Use AS-
+ASN: 64822, Name: -Private Use AS-
+ASN: 64951, Name: -Private Use AS-
+ASN: 7224, Name: AMAZON-AS
+ASN: 64953, Name: -Private Use AS-
+ASN: 65464, Name: -Private Use AS-
+ASN: 64950, Name: -Private Use AS-
+ASN: 64952, Name: -Private Use AS-
+ASN: 65463, Name: -Private Use AS-
+ASN: 65220, Name: -Private Use AS-
+ASN: 65224, Name: -Private Use AS-
+ASN: 65229, Name: -Private Use AS-
+ASN: 3671, Name: SLAC
+ASN: 65240, Name: -Private Use AS-
+ASN: 64600, Name: -Private Use AS-
+ASN: 20057, Name: ATT-MOBILITY-LLC-AS20057
+ASN: 64665, Name: -Private Use AS-
+ASN: 2152, Name: CSUNET-NW
+ASN: 2153, Name: CSUNET-NE
+ASN: 64750, Name: -Private Use AS-
+ASN: 64751, Name: -Private Use AS-
+ASN: 64752, Name: -Private Use AS-
+ASN: 64753, Name: -Private Use AS-
+ASN: 64668, Name: -Private Use AS-
+ASN: 64756, Name: -Private Use AS-
+ASN: 64760, Name: -Private Use AS-
+ASN: 64761, Name: -Private Use AS-
+ASN: 64763, Name: -Private Use AS-
+ASN: 64766, Name: -Private Use AS-
